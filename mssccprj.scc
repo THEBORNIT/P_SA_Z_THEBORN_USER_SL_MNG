@@ -1,0 +1,65 @@
+SCC = This is a Source Code Control file
+
+[P_PM_Z_KOSES_DELAY_REG.csproj]
+SCC_Aux_Path = "Y:\"
+SCC_Project_Name = "$/PM/메뉴/P_PM_Z_KOSES_DELAY_REG", DHAAAAAA
+
+[P_SA_Z_HYS_GIR_PK.csproj]
+SCC_Aux_Path = "Z:\HYS_source"
+SCC_Project_Name = "$/HYS/Source/sale/P_SA_Z_HYS_GIR_PK", MAAAAAAA
+
+[P_PU_Z_HYS_VMI_REG.csproj]
+SCC_Aux_Path = "Z:\HYS_source"
+SCC_Project_Name = "$/HYS/Source/pur/P_PU_Z_HYS_VMI_REG", LGAAAAAA
+
+[P_PU_Z_HYS_VMI_COL.csproj]
+SCC_Aux_Path = "Z:\HYS_source"
+SCC_Project_Name = "$/HYS/Source/pur/P_PU_Z_HYS_VMI_COL", NJAAAAAA
+
+[P_PU_Z_HYS_VMI_RPT.csproj]
+SCC_Aux_Path = "Z:\HYS_source"
+SCC_Project_Name = "$/HYS/Source/pur/P_PU_Z_HYS_VMI_RPT", KKAAAAAA
+
+[P_SA_Z_HYS_DC_STEP.csproj]
+SCC_Aux_Path = "Z:\HYS_source"
+SCC_Project_Name = "$/HYS/Source/sale/P_SA_Z_HYS_DC_STEP", USAAAAAA
+
+[P_SA_Z_HYS_DC_UMCHANGE.csproj]
+SCC_Aux_Path = "Z:\HYS_source"
+SCC_Project_Name = "$/HYS/Source/sale/P_SA_Z_HYS_DC_UMCHANGE", UTAAAAAA
+
+[P_PR_Z_EQUIP_REG_ANJUN.csproj]
+SCC_Aux_Path = "W:\ANJUN_Source"
+SCC_Project_Name = "$/ANJUN/Source/prd/P_PR_Z_EQUIP_REG_ANJUN", CBAAAAAA
+
+[P_MA_Z_PITEM_AN.csproj]
+SCC_Aux_Path = "W:\ANJUN_Source"
+SCC_Project_Name = "$/ANJUN/Source/master/P_MA_Z_PITEM_AN", QCAAAAAA
+
+[P_PR_Z_EQPLINE_RTP1_AN.csproj]
+SCC_Aux_Path = "W:\ANJUN_Source"
+SCC_Project_Name = "$/ANJUN/Source/prd/P_PR_Z_EQPLINE_RTP1_AN", UIAAAAAA
+
+[P_PR_Z_ANJUN_EQPLINE_RTP1.csproj]
+SCC_Aux_Path = "W:\ANJUN_Source"
+SCC_Project_Name = "$/ANJUN/Source/prd/P_PR_Z_ANJUN_EQPLINE_RTP1", UIAAAAAA
+
+[P_PR_Z_ANJUN_EQPMNT_RPT1.csproj]
+SCC_Aux_Path = "W:\ANJUN_Source"
+SCC_Project_Name = "$/ANJUN/Source/prd/P_PR_Z_ANJUN_EQPMNT_RPT1", HQAAAAAA
+
+[P_PR_Z_ANJUN_EQP_PUR_PLAN.csproj]
+SCC_Aux_Path = "W:\ANJUN_Source"
+SCC_Project_Name = "$/ANJUN/Source/prd/P_PR_Z_ANJUN_EQP_PUR_PLAN", MSAAAAAA
+
+[P_QU_Z_ANJUN_SUGGEST_RPT.csproj]
+SCC_Aux_Path = "Y:\안전공업"
+SCC_Project_Name = "$/qua/P_QU_Z_ANJUN_SUGGEST_RPT", YLBAAAAA
+
+[P_SA_Z_EDIYA_FRAN_STOOWNVO.csproj]
+SCC_Aux_Path = "Z:\"
+SCC_Project_Name = "$/UI/sale/P_SA_Z_EDIYA_FRAN_STOOWNVO", PAAAAAAA
+
+[P_SA_Z_WTP_VMI_RPT.csproj]
+SCC_Aux_Path = "X:\"
+SCC_Project_Name = "$/Project/EDIYA/sale/P_SA_Z_WTP_VMI_RPT", BBDAAAAA

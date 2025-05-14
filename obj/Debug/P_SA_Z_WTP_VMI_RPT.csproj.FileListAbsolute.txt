@@ -1,0 +1,9 @@
+D:\EDIYA\sale\P_SA_Z_WTP_VMI_RPT\obj\Debug\ResolveAssemblyReference.cache
+D:\EDIYA\sale\P_SA_Z_WTP_VMI_RPT\obj\Debug\sale.Properties.Resources.resources
+D:\EDIYA\sale\P_SA_Z_WTP_VMI_RPT\obj\Debug\sale.P_SA_Z_WTP_VMI_RPT.resources
+D:\EDIYA\sale\P_SA_Z_WTP_VMI_RPT\obj\Debug\GenerateResource.read.1.tlog
+D:\EDIYA\sale\P_SA_Z_WTP_VMI_RPT\obj\Debug\GenerateResource.write.1.tlog
+F:\EDIYA\sale\P_SA_Z_WTP_VMI_RPT\obj\Debug\P_SA_Z_WTP_VMI_RPT.csprojResolveAssemblyReference.cache
+F:\EDIYA\sale\P_SA_Z_WTP_VMI_RPT\obj\Debug\sale.Properties.Resources.resources
+F:\EDIYA\sale\P_SA_Z_WTP_VMI_RPT\obj\Debug\sale.P_SA_Z_WTP_VMI_RPT.resources
+F:\EDIYA\sale\P_SA_Z_WTP_VMI_RPT\obj\Debug\P_SA_Z_WTP_VMI_RPT.csproj.GenerateResource.Cache
