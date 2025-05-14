@@ -99,7 +99,7 @@ namespace sale
             _flexH.SetDummyColumn("S");
             
 
-            _flexH.SettingVersion = "1.0.0.1";
+            _flexH.SettingVersion = "1.0.0.2";
             _flexH.EndSetting(GridStyleEnum.Green, AllowSortingEnum.SingleColumn, SumPositionEnum.None);
 
         }
